@@ -1,2 +1,2 @@
 # C-codes
-##Simple programming code
+## Simple programming code
