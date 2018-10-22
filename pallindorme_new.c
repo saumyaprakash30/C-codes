@@ -1,3 +1,6 @@
+/*
+We are checking that the given word is pellindrome or not
+*/
 #include<stdio.h>
 #include<string.h>
 
