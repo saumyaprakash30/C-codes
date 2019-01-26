@@ -1,4 +1,4 @@
 # C-codes
 ## Simple programming code
-##data structures
+##data structure programs
 
