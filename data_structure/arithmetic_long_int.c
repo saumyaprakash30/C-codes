@@ -384,7 +384,7 @@ void add(sn* aptr,sn* bptr)
 		if(bptr!=NULL)
 		{
 			
-	//		printf("in b\n");
+	//		printf("in   b\n");
 			bptr=bptr->nptr;
 		}
 	i++;
